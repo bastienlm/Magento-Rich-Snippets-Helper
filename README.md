@@ -1,7 +1,10 @@
 # Getting Start
 1/ Copy this Helper on your local module
+
 2/ Replace Helper class name by your module name
+
 3/ Replace All 'REPLACE_VALUE' by your value
+
 4/ Call this method on your homepage :
 ```
 <script type="application/ld+json">
