@@ -8,13 +8,13 @@
 4/ Call this method on your homepage :
 ```
 <script type="application/ld+json">
-    <?php echo Mage::helper('rshop_local/snippets')->getHomePageSnippets(); ?>
+    <?php echo Mage::helper('YOUR_MODULE/snippets')->getHomePageSnippets(); ?>
 </script>
 ```
 5/ Call this method on your product page :
 ```
 <script type="application/ld+json">
-    <?php echo Mage::helper('rshop_local/snippets')->getProductRichSnippets($_product); ?>
+    <?php echo Mage::helper('YOUR_MODULE/snippets')->getProductRichSnippets($_product); ?>
 </script>
 ```
 6/ Valid your data with google testing tool : https://search.google.com/structured-data/testing-tool/u/0/
