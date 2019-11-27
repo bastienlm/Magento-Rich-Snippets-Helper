@@ -1,3 +1,5 @@
+Ligth way for add basic Rich Snippets on your Magento.
+
 # Getting Start
 1/ Copy this Helper on your local module
 
@@ -22,3 +24,35 @@
 And... It's done !
 (This Helper it's not complete, you can contribute ;))
 
+# Snippets adds
+### Product types 
+- Simple
+- Configurable
+- Bundle
+### Snippets type
+- AggregateOffer 
+    - Availability (In stock / Out of stock)
+    - Price currency
+    - High / Low / Current Price
+- Product
+    - Name
+    - Image
+    - Description
+    - SKU
+    - MPN
+    - Brand
+- AggregateRating
+    - Rating value
+    - Best rating
+    - Worst rating
+    - Review count
+- Website
+    - Name
+    - Url
+    - SearchAction
+    - Logo
+    - Area served
+    - Contact type
+    - Hours available
+    - Address
+    - Social Links
